@@ -1,0 +1,538 @@
+html {
+    background: #FFF7EE;
+}
+
+
+.topnav {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+    background: #FFF7EE;
+    height: 100px;
+}
+.topnav:hover {
+    background: white;
+    
+
+}
+
+.link {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    gap: 30px;
+    font-family: tahoma;
+}
+
+.message {
+    display: flex;
+}
+
+.contact {
+    color: white;
+    font-size: 20px;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    background: #ff7200;
+    border: 2px solid #ff7200;
+    margin-top: 13px;;
+    font-size: 18px;
+}
+
+.contact:hover{
+    background: #373737;
+    border: #373737;
+}
+
+a {
+    color:#373737;
+    text-decoration: none;
+}
+
+.a1:hover {
+    color: orange;
+}
+.a2:hover {
+    color: orange;
+}
+.a3:hover {
+    color: orange;
+}
+.a4:hover {
+    color: orange;
+}
+
+
+
+
+.body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.START {
+    color: white;
+    font-size: 20px;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    background: #ff7200;
+    border: 2px solid #ff7200;
+    margin-top: 13px;;
+    font-size: 18px;
+}
+
+.START:hover{
+    background: #373737;
+    border: #373737;
+}
+
+.ttext {
+    padding: 10px 15px;
+}
+.what {
+    color: #373737;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.work {
+    color: #373737;
+    text-decoration: none;
+    font-size: 70px;
+}
+
+
+
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: white;
+    background: #373737;
+    font-size: 25px;
+}
+
+
+
+
+.body2 {
+    background: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hh {
+    font-size: 40px;
+    color: #373737;
+}
+
+.textt {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.text{
+    color: #373737;
+    font-style: none;
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+}
+
+.number {
+    color: orange;
+    font-size: xx-large;
+    font-size: 50px;
+}
+
+.doing {
+    color: orange;
+    font-size: 20px;
+}
+
+.button1 {
+    width: 140px;
+    height: 40px;
+    border-radius: 5px;
+    background: #ff7200;
+    border: 2px solid #ff7200;
+    font-weight: bold;
+}
+
+.button2 {
+    width: 140px;
+    height: 40px;
+    border-radius: 5px;
+    background: #ff7200;
+    border: 2px solid #ff7200;
+    font-weight: bold;
+}
+
+.button1text {
+    color: white;
+    text-decoration: none;
+}
+
+.button2text {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+.title {
+    padding: 10px 50px;
+    font-size: 80px;
+    color: #373737;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.square {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.websquare {
+    color: white;
+    font-size: 25px;
+    width: 500px;
+    height: 200px;
+    border-radius: none;
+    background: #f2ea0f;
+    border: 2px solid #373737;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.graphicsquare {
+    color: white;
+    font-size: 25px;
+    width: 500px;
+    height: 200px;
+    border-radius: none;
+    background: #09b3de;
+    border: 2px solid #373737;
+    margin: 10px;
+}
+
+.digitalsquare {
+    color: white;
+    font-size: 25px;
+    width: 500px;
+    height: 200px;
+    border-radius: none;
+    background: #156e49;
+    border: 2px solid #373737;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.networkingsquare {
+    color: white;
+    font-size: 25px;
+    width: 500px;
+    height: 200px;
+    border-radius: none;
+    background: #6f2c4b;
+    border: 2px solid #373737;
+    margin: 10px;
+    font-weight: bold;
+}
+
+
+
+
+
+.section3 {
+    background: white;
+}
+
+.title2 {
+    font-size: 80px;
+    padding: 20px 50px;
+    color: #373737;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.square2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 15px;
+    align-items: center;
+}
+
+.htmlsquare {
+    color: white;
+    font-size: 25px;
+    width: 400px;
+    height: 100px;
+    border-radius: none;
+    background: #e16f04;
+    border: 2px solid #373737;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.csssquare {
+    color: white;
+    font-size: 25px;
+    width: 400px;
+    height: 100px;
+    border-radius: none;
+    background: #043509;
+    border: 2px solid #373737;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.figmasquare {
+    color: white;
+    font-size: 25px;
+    width: 400px;
+    height: 100px;
+    border-radius: none;
+    background: #04cfe1;
+    border: 2px solid #373737;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.presssquare {
+    color: white;
+    font-size: 25px;
+    width: 400px;
+    height: 100px;
+    border-radius: none;
+    background: #b825bd;
+    border: 2px solid #373737;
+    margin: 20px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+form {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 2vw 4vw;
+}
+
+form h1{
+    color: #373737;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+form input, form textarea{
+    border: 0;
+    margin: 10px 0;
+    padding: 10px;
+    outline: #373737;
+    background: whitesmoke;
+    font-size: 15px;
+}
+
+form button{
+    padding: 10px;
+    background: orange;
+    color: white;
+    font-size: 18px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    width: 150px;
+    border-radius:5px;
+}
+
+form button:hover{
+    background: #373737;
+    color: white;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.sendmsg {
+    background: #373737;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.pics {
+    display: flex;
+    flex-direction: column;
+}
+
+.foot {
+    background-color: #373737;
+    border-top: #FFF7EE;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.foot {
+    background: #373737;
+    border: 1;
+    border-color: #FFF7EE;
+}
+
+
+
+
+
+
+
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+  ul {
+    margin: 0;
+    padding: 0;
+    margin: 10px;
+  }
+  
+.todo {
+    width: 500px;
+    height: 200px;
+    place-content: center;
+}
+
+  ul li {
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    background: #eee;
+    font-size: 18px;
+    transition: 0.2s;
+    border-radius: 5px;
+    margin: 3px;
+
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+  ul li:nth-child(odd) {
+    background: #f9f9f9;
+  }
+  
+  ul li:hover {
+    background: #ddd;
+  }
+  
+  ul li.checked {
+    background: rgb(94, 169, 94);
+    color: #fff;
+    text-decoration: line-through;
+  }
+  
+  ul li.checked::before {
+    content: '';
+    position: absolute;
+    border-color: #fff;
+    border-style: solid;
+    border-width: 0 2px 2px 0;
+    top: 10px;
+    left: 16px;
+    transform: rotate(45deg);
+    height: 15px;
+    width: 7px;
+  }
+  
+  .close {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 12px 16px 12px 16px;
+  }
+  
+  .close:hover {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .header {
+    background-color: #420602;
+    padding: 30px 40px;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+  }
+  
+  .header:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  input {
+    margin: 0;
+    border: none;
+    border-radius: 0;
+    width: 75%;
+    padding: 10px;
+    float: left;
+    font-size: 16px;
+  }
+  
+  .addBtn {
+    padding: 10px;
+    width: 25%;
+    background: #bbb;
+    color: white;
+    float: left;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 10px;
+  }
+  
+  .addBtn:hover {
+    background-color: green;
+  }
+
+  .intype {
+    border-radius: 10px;
+  }
